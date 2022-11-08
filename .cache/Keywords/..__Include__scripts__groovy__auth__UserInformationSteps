@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "643A2EBF92E83DC054CE0362417464E3",
+  "keywordClasses": [
+    {
+      "name": "auth.UserInformationSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

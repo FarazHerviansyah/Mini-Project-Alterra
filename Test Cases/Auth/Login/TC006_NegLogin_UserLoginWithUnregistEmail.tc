@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_NegLogin_UserLoginWithUnregistEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4156d16a-7cf5-4e56-8ee8-d6026adcc325</testCaseGuid>
+</TestCaseEntity>

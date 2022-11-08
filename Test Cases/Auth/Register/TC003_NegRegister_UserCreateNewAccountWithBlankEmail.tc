@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_NegRegister_UserCreateNewAccountWithBlankEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdcf5b51-d458-41e3-bc0b-c7d812c49895</testCaseGuid>
+</TestCaseEntity>

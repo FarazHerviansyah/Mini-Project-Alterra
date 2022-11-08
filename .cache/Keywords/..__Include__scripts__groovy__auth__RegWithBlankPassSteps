@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7365947520038C11D1012D91CB0D5F06",
+  "keywordClasses": [
+    {
+      "name": "auth.RegWithBlankPassSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

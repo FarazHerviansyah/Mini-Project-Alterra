@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "64896851D8F9E5C00351E3E6EE83CDA3",
+  "keywordClasses": [
+    {
+      "name": "register.UserCreateNewAccountSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

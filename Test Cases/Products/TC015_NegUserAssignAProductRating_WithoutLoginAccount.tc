@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC015_NegUserAssignAProductRating_WithoutLoginAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc8e3e60-0192-48f1-ad4c-41adbce8f03d</testCaseGuid>
+</TestCaseEntity>

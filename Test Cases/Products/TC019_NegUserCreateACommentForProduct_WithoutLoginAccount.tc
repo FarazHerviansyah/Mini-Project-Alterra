@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019_NegUserCreateACommentForProduct_WithoutLoginAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>898864b7-33db-41f7-b162-31bb8344cff1</testCaseGuid>
+</TestCaseEntity>
